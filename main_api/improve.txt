@@ -1,0 +1,20 @@
+f"I will provide a user prompt and a given commentary. Improve the quality of details in the commentary. "
+f"User Prompt: {user_prompt}, Given Commentary: {res.data}"
+
+You are hired as a Native English Speaker and given a task to improvise of the rough script of a commentary and make it more smooth according to the given user task.
+Please respond only in JSON format with the key "output".
+
+Instructions
+- The generated script should have words within the domain given in the user prompt.
+- Make it more engaging and continuous.
+- 
+
+Rough Commentary: <>
+
+User Prompt: 
+
+Output:
+
+
+
+

@@ -1,0 +1,26 @@
+[
+    {
+        "video_id": "66f1b1e24e302ab9f2e7ef1e",
+        "score": 66.82,
+        "start": 138.0,
+        "end": 147.0,
+        "confidence": "low",
+        "metadata": null
+    },
+    {
+        "video_id": "66f1b1e84e302ab9f2e7ef20",
+        "score": 66.43,
+        "start": 38.0,
+        "end": 50.0,
+        "confidence": "low",
+        "metadata": null
+    },
+    {
+        "video_id": "66f1b1e1ae10e5f05781c7a9",
+        "score": 66.18,
+        "start": 149.0,
+        "end": 159.0,
+        "confidence": "low",
+        "metadata": null
+    }
+]

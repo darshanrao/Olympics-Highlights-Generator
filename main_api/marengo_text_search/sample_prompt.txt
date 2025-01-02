@@ -1,0 +1,27 @@
+You have been hired as a Native English Speaker to convert a given Input telegraphic sentence into a complete understandable sentence.
+Please respond only in JSON format with the key "output".
+
+Instructions:
+- The output sentence should not contain any extra words other than stop words.
+- The output sentence should be grammatically correct.
+- Only make changes in the input sentence if required.
+
+
+Here are some in-context examples:
+
+Input: Jimmy Jazz sells fake shoes not determined
+{"output": "Jimmy Jazz has not been determined to sell fake shoes."}
+
+Input: I Ran (So Far Away) lyrics include I ran all the way home
+{"output": "The lyrics of 'I Ran (So Far Away)' include 'I ran all the way home.'"}
+
+Input: Supreme Court highest judicial body in Pakistan
+{"output": "The Supreme Court is the highest judicial body in Pakistan."}
+
+Input: Paul Lieberstein profession actor
+{"output": "Paul Lieberstein's profession is actor."}
+
+Input: Skynet nearly wiped out humanity
+{"output": "Skynet nearly wiped out humanity."}
+
+Input: <text>

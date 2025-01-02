@@ -1,0 +1,84 @@
+[
+    [
+        {
+            "video_id": "66f1b1e84e302ab9f2e7ef20",
+            "score": 83.42,
+            "start": 0.0,
+            "end": 15.0,
+            "confidence": "high",
+            "metadata": null
+        },
+        {
+            "video_id": "66f1b1e1ae10e5f05781c7a9",
+            "score": 83.22,
+            "start": 89.0,
+            "end": 109.0,
+            "confidence": "high",
+            "metadata": null
+        },
+        {
+            "video_id": "66f1b1e1ae10e5f05781c7a9",
+            "score": 83.1,
+            "start": 9.0,
+            "end": 17.0,
+            "confidence": "high",
+            "metadata": null
+        },
+        {
+            "video_id": "66f1b1e84e302ab9f2e7ef20",
+            "score": 82.03,
+            "start": 59.0,
+            "end": 86.0,
+            "confidence": "medium",
+            "metadata": null
+        },
+        {
+            "video_id": "66f1b1e24e302ab9f2e7ef1e",
+            "score": 80.11,
+            "start": 67.0,
+            "end": 85.0,
+            "confidence": "medium",
+            "metadata": null
+        },
+        {
+            "video_id": "66f1b1e84e302ab9f2e7ef20",
+            "score": 79.53,
+            "start": 111.0,
+            "end": 135.0,
+            "confidence": "medium",
+            "metadata": null
+        },
+        {
+            "video_id": "66f1b1e1ae10e5f05781c7a9",
+            "score": 79.33,
+            "start": 64.0,
+            "end": 72.0,
+            "confidence": "medium",
+            "metadata": null
+        },
+        {
+            "video_id": "66f1b1e9ae10e5f05781c7af",
+            "score": 78.52,
+            "start": 34.0,
+            "end": 52.0,
+            "confidence": "medium",
+            "metadata": null
+        },
+        {
+            "video_id": "66f1b1e24e302ab9f2e7ef1e",
+            "score": 76.47,
+            "start": 176.0,
+            "end": 185.0,
+            "confidence": "medium",
+            "metadata": null
+        },
+        {
+            "video_id": "66f1b1e84e302ab9f2e7ef20",
+            "score": 75.04,
+            "start": 27.0,
+            "end": 37.0,
+            "confidence": "medium",
+            "metadata": null
+        }
+    ]
+]
