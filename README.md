@@ -3,7 +3,7 @@
 
 ![image](https://github.com/user-attachments/assets/c8e890d1-3c26-43bb-9a7f-85cc0e7c2970)
 
-Revolutionizing sports highlight creation with the power of AI! Whether you're a broadcaster or content creator, our solution delivers engaging Olympic moments from a simple prompt. This project has won First Prize in Cerebral Beach Hacks in Sports Category
+Revolutionizing sports highlight creation with the power of AI! Whether you're a broadcaster or content creator, our solution delivers engaging Olympic moments from a simple prompt. **This project has won First Prize in Cerebral Beach Hacks in Sports Category.**
 
 
 ---
