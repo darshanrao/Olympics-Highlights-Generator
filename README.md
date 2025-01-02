@@ -80,7 +80,6 @@ Our project integrates multiple AI models and APIs in a unified workflow:
   - Pegasus: Script generation.  
   - ElevenLabs: Text-to-speech voice-over.  
 - **Video Editing**: Custom Python algorithm for synchronization.  
-- **Hosting**: Deployed on [insert platform].  
 
 ---
 
@@ -89,76 +88,22 @@ Our project integrates multiple AI models and APIs in a unified workflow:
 ### Prerequisites
 1. Node.js installed (`>=v16.x`).  
 2. Python 3.8 or higher installed.  
-3. API keys for TwelveLabs, ElevenLabs, and Google Cloud.  
-
-### Installation  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/username/olympic-highlight-generator.git
-   cd olympic-highlight-generator
-   ```  
-2. Install dependencies for the backend:  
-   ```bash
-   cd backend
-   npm install
-   ```  
-3. Install dependencies for the frontend:  
-   ```bash
-   cd ../frontend
-   npm install
-   ```  
-4. Install Python requirements:  
-   ```bash
-   pip install -r requirements.txt
-   ```  
-
-### Running the Project  
-1. Start the backend:  
-   ```bash
-   cd backend
-   npm start
-   ```  
-2. Start the frontend:  
-   ```bash
-   cd ../frontend
-   npm start
-   ```  
-
----
-
-## 🤝 Contributing
-
-We welcome contributions!  
-1. Fork the repository.  
-2. Create a feature branch:  
-   ```bash
-   git checkout -b feature-name
-   ```  
-3. Commit your changes and push to the branch:  
-   ```bash
-   git push origin feature-name
-   ```  
-4. Open a Pull Request.  
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).  
+3. API keys for TwelveLabs, ElevenLabs.
 
 ---
 
 ## 🏅 Team
 
-- **Darshan Rao**: Backend development and system integration.  
-- **[Other Team Members]**: Roles and contributions.  
+- **Darshan Rao**
+- **Ayan Bhowmick**
+- **Anupam Patil**
+- **Shardul Datar**
+- **Shaunak Mahajan**
 
 ---
 
 ## ✨ Demo
 
-[Insert link to a live demo or a video showcasing the project.]  
+https://devpost.com/software/olympic-highlight-generator
 
----
 
-We hope you enjoy using **Olympic Highlight Generator** as much as we enjoyed building it! For feedback or questions, feel free to reach out.  
