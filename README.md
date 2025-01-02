@@ -86,15 +86,6 @@ Our project integrates multiple AI models and APIs in a unified workflow:
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-1. Node.js installed (`>=v16.x`).  
-2. Python 3.8 or higher installed.  
-3. API keys for TwelveLabs, ElevenLabs.
-
----
-
 ## 🏅 Team
 
 - **Darshan Rao**
