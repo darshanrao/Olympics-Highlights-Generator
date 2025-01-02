@@ -109,4 +109,6 @@ Our project integrates multiple AI models and APIs in a unified workflow:
 
 https://devpost.com/software/olympic-highlight-generator
 
+## ✨ Demo
 
+https://youtu.be/hxt9041EGsY?si=Bx5IOA2FI7Qg7J-4
