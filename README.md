@@ -6,6 +6,14 @@
 Revolutionizing sports highlight creation with the power of AI! Whether you're a broadcaster or content creator, our solution delivers engaging Olympic moments from a simple prompt. **This project has won First Prize in Cerebral Beach Hacks in Sports Category.**
 
 
+## ✨ Devpost Link
+
+https://devpost.com/software/olympic-highlight-generator
+
+## ✨ Demo
+
+https://youtu.be/hxt9041EGsY?si=Bx5IOA2FI7Qg7J-4
+
 ---
 
 ## 🌟 Inspiration
@@ -95,11 +103,3 @@ Our project integrates multiple AI models and APIs in a unified workflow:
 - **Shaunak Mahajan**
 
 ---
-
-## ✨ Devpost Link
-
-https://devpost.com/software/olympic-highlight-generator
-
-## ✨ Demo
-
-https://youtu.be/hxt9041EGsY?si=Bx5IOA2FI7Qg7J-4
